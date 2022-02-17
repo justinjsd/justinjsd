@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin David (@justin_jsd)
 - 🌱 I’m currently learning Computer Science at BITS Pilani, Dubai Campus
-- 📫 You can reach me on:
+- 📫 You can reach me at:
   Email: justindavid2000@gmail.com // f20180259@dubai.bits-pilani.ac.in
 
 <!---
