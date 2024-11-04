@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justin David (@justin_jsd)
-- 🌱 I’m currently learning Computer Science at BITS Pilani, Dubai Campus
+- 💻 I’m currently an Analytics Engineer and Data Analyst
 - 📫 You can reach me at:
-  Email: justindavid2000@gmail.com // f20180259@dubai.bits-pilani.ac.in
+  Email: justindavid2000@gmail.com
 
 <!---
 justinjsd/justinjsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
