@@ -9,6 +9,7 @@
 
 ## 🛠️ My Tech Stack & things I use
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 ![dbt](https://img.shields.io/badge/dbt-blue?logo=dbt&style=flat-square) 
 ![BigQuery SQL](https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
