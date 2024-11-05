@@ -22,6 +22,14 @@
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=atlassian&logoColor=white&style=flat-square)
 ![Confluence](https://img.shields.io/badge/Confluence-0052CC?logo=atlassian&logoColor=white&style=flat-square)
 
+## 📊 GitHub Streak
+
+<div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=justinjsd&theme=dark&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinjsd&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </a>
+</div>
+
 ## 📫 Let's Connect!
 
 You can reach me at:
