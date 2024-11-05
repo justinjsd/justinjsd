@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Justin David** (@justin_jsd) 🎉
+# 👋 Hello, I'm **Justin David** 🎉
 
 ## 🤓 About Me
 
@@ -34,7 +34,7 @@
 
 You can reach me at:
 - ✉️ Email: [justindavid2000@gmail.com](mailto:justindavid2000@gmail.com) 📧
-- 🌐 Check out my projects and contributions on [GitHub](https://github.com/justin_jsd)! 💻✨
+- 🌐 Check out my projects and contributions on [GitHub](https://github.com/justinjsd)! 💻✨
 
 <!---
 justinjsd/justinjsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
