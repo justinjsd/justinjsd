@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Justin David** 🎉
+# 👋 Hello, I'm **Justin David**
 
 ## 🤓 About Me
 
