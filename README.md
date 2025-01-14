@@ -22,7 +22,7 @@
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=atlassian&logoColor=white&style=flat-square)
 ![Confluence](https://img.shields.io/badge/Confluence-0052CC?logo=atlassian&logoColor=white&style=flat-square)
 
-## 📊 GitHub Streak
+## 📊 GitHub Stats
 
 <div align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">   
