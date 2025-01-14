@@ -25,9 +25,9 @@
 ## 📊 GitHub Streak
 
 <div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=justinjsd&theme=dark&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinjsd&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </a>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">   
+      <img  alt="justinjsd's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/justinjsd?cardType=github&theme=github-dark&preferLogin=false" />  
+    </a>
 </div>
 
 ## 📫 Let's Connect!
