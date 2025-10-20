@@ -2,7 +2,7 @@
 
 ## 🤓 About Me
 
-- 💻 I’m currently diving deep into the world of **Analytics Engineering** and **Data Analysis**! 🚀✨
+- 💻 I’m currently diving deep into the world of **Data and Analytics Engineering**! 🚀✨
 - 🧠 I have a passion for transforming raw data into meaningful insights and love solving complex problems! 🔍📊
 - 🌟 I enjoy working with tools like **dbt**, **SQL**, and **Python** to craft powerful data solutions! 🛠️
 - 🎓 I’m always learning and staying updated with the latest trends in the data world – knowledge is power! 📚💪
