@@ -4,7 +4,7 @@
 
 - 💻 I’m currently diving deep into the world of **Data and Analytics Engineering**! 🚀✨
 - 🧠 I have a passion for transforming raw data into meaningful insights and love solving complex problems! 🔍📊
-- 🌟 I enjoy working with tools like **Apache Airflow**, **Python**, **dbt**, ** and SQL** to craft powerful data solutions! 🛠️
+- 🌟 I enjoy working with tools like **Apache Airflow**, **Python**, **dbt**, **and SQL** to craft powerful data solutions! 🛠️
 - 🎓 I’m always learning and staying updated with the latest trends in the data world – knowledge is power! 📚💪
 
 ## 🛠️ My Tech Stack & things I use
