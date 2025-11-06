@@ -4,7 +4,7 @@
 
 - 💻 I’m currently diving deep into the world of **Data and Analytics Engineering**! 🚀✨
 - 🧠 I have a passion for transforming raw data into meaningful insights and love solving complex problems! 🔍📊
-- 🌟 I enjoy working with tools like **dbt**, **SQL**, and **Python** to craft powerful data solutions! 🛠️
+- 🌟 I enjoy working with tools like **Apache Airflow**, **Python**, **dbt**, ** and SQL** to craft powerful data solutions! 🛠️
 - 🎓 I’m always learning and staying updated with the latest trends in the data world – knowledge is power! 📚💪
 
 ## 🛠️ My Tech Stack & things I use
@@ -21,14 +21,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=atlassian&logoColor=white&style=flat-square)
 ![Confluence](https://img.shields.io/badge/Confluence-0052CC?logo=atlassian&logoColor=white&style=flat-square)
-
-## 📊 GitHub Stats
-
-<div align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">   
-      <img  alt="justinjsd's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/justinjsd?cardType=github&theme=github-dark&preferLogin=false" />  
-    </a>
-</div>
 
 ## 📫 Let's Connect!
 
